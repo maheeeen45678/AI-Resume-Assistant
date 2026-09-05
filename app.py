@@ -29,7 +29,7 @@ st.caption(
 # -----------------------------
 # Configuration
 # -----------------------------
-MODEL_NAME = "gemini-3.4-flash"
+MODEL_NAME = "gemini-3.5-flash"
 MAX_FILE_SIZE_MB = 50
 
 
